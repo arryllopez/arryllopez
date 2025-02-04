@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building innovative s
 - [Something unique or fun about you]
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=arryllopez&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
 
 ## 📂 Some of my projects
 - [Project 1](https://github.com/yourusername/project1) - Short description of what the project does.
