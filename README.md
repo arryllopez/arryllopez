@@ -4,7 +4,8 @@ Welcome to my GitHub! I'm a passionate developer who loves building innovative s
 
 ## 🔭 Currently working on
 - [profitThrift] - Python, Next.js, Tailwind CSS, React
-- [fakeNewsDetective] - Python 
+- [fakeNewsDetective] - Python
+- [StudyTok] 
 
 ## 👯 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/lawrence-lopez-917908349/)
