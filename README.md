@@ -9,5 +9,6 @@ Welcome to my GitHub! I'm a passionate developer who loves building innovative s
 
 ## 👯 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/lawrence-lopez-917908349/)
+- [Portfolio](https://arryllopez.github.io/portfolio-lawrenceLopez/)
 
 
