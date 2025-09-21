@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [NurseGPT](https://github.com/arryllopez/NurseGPT)
 
-- 🌱 I’m currently learning **Software Engineering (3rd year) at Ontario Tech University**
-
 - 👯 I’m currently working on [SkillScribe](https://github.com/arryllopez/SkillScribe)
+
+- 🌱 I’m currently learning **Software Engineering (3rd year) at Ontario Tech University**
 
 - 👨‍💻 All of my projects are available at [https://arryllopez.github.io/portfolio-lawrenceLopez/](https://arryllopez.github.io/portfolio-lawrenceLopez/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lawrence-lopez-917908349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lawrence-lopez-917908349/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lawrence-lopez-917908349/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lawrence-lopez-917908349/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
