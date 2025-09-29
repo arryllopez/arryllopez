@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lawrence Arryl Lopez</h1>
-<h3 align="center">Passionate about machine learning, fine-tuning LLMs, and predicting trends, including in healthcare. Experienced in full-stack development, building end-to-end applications that put data-driven solutions into action.</h3>
+<h3 align="center">Passionate about machine learning, fine-tuning LLMs, and predicting trends. Experienced in full-stack development, building end-to-end applications that put data-driven solutions into action.</h3>
 
 - 🔭 I’m currently working on [NurseGPT](https://github.com/arryllopez/NurseGPT)
 
