@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software Engineering (3rd year) at Ontario Tech University**
 
-- 👨‍💻 All of my projects are available at [https://arryllopez.github.io/portfolio-lawrenceLopez/](https://arryllopez.github.io/portfolio-lawrenceLopez/)
+- 👨‍💻 All of my projects are available at [https://arryllopez.github.io/lawrence_devPortfolio/](https://arryllopez.github.io/lawrence_devPortfolio/)
 
 - 📫 How to reach me **arryllopez7@gmail.com**
 
