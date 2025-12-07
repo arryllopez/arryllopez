@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Lawrence Arryl Lopez</h1>
 <h3 align="center">Passionate about machine learning, fine-tuning LLMs, and predicting trends. Experienced in full-stack development, building end-to-end applications that put data-driven solutions into action.</h3>
 
-- 🔭 I’m currently working on [NurseGPT](https://github.com/arryllopez/NurseGPT)
+### 🔭 I’m currently working on:
 
-- 👯 I’m currently working on [SkillScribe](https://github.com/arryllopez/SkillScribe)
+- 🏦 **TFSA Intelligent Recommender System**  
+  *A Spring Boot + ML engine that recommends the best TFSA provider based on financial goals, risk tolerance, and fee structures.*
+
+- 🎴 **Pokémon Card Price & Sentiment Predictor**  
+  *ML + NLP forecasting for collectible card markets using price history, social media sentiment, and trend analysis.*
+
+- 🥊 **Combat Sports Fight Simulation Engine**  
+  *A Monte Carlo UFC/Boxing predictor that simulates thousands of fight outcomes and visualizes real-time win probabilities.*
 
 - 🌱 I’m currently learning **Software Engineering (3rd year) at Ontario Tech University**
 
