@@ -4,13 +4,13 @@
 ### 🔭 I’m currently working on:
 
 - 🏦 **TFSA Intelligent Recommender System**  
-  *A Spring Boot + ML engine that recommends the best TFSA provider based on financial goals, risk tolerance, and fee structures.*
+  A Spring Boot and machine learning engine that recommends the best TFSA provider based on financial goals, risk tolerance, and fees.
 
 - 🎴 **Pokémon Card Price & Sentiment Predictor**  
-  *ML + NLP forecasting for collectible card markets using price history, social media sentiment, and trend analysis.*
+  A machine learning and NLP forecasting tool for collectible card markets using price history, social media sentiment, and trend analysis.
 
 - 🥊 **Combat Sports Fight Simulation Engine**  
-  *A Monte Carlo UFC/Boxing predictor that simulates thousands of fight outcomes and visualizes real-time win probabilities.*
+  A Monte Carlo UFC/Boxing predictor that simulates thousands of fight outcomes and visualizes real-time win probabilities.
 
 - 🌱 I’m currently learning **Software Engineering (3rd year) at Ontario Tech University**
 
