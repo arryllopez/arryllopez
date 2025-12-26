@@ -12,7 +12,7 @@ I build intelligent systems that predict real-world outcomes — from finance, t
   *Machine learning–powered platform predicting NBA player performances.*  
 
 - 🌽 **Biovision**  
-  *CSIRO - Image2Biomass Prediction (Kaggle Competition by CSIRO) - Utilize models to predict pasture biomass from satellite imagery*  
+  *CSIRO - Image2Biomass Prediction (Kaggle Competition by CSIRO) - Utilizing CNNs to predict pasture biomass from satellite imagery*  
 
 
 ---
