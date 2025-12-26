@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawrence Arryl Lopez</h1>
 <h3 align="center">
 🚀 Machine Learning enthusiast, simulation modeller, and full-stack developer.  
-I build intelligent systems that predict real-world outcomes — from finance, to collectibles, to combat sports analytics.
+I build intelligent systems that predict real-world outcomes. 
 </h3>
 
 ---
