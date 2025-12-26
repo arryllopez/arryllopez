@@ -8,14 +8,12 @@ I build intelligent systems that predict real-world outcomes — from finance, t
 
 ### 🔭 I’m currently working on:
 
-- 🏦 **TFSA Intelligent Recommender System**  
-  *A Spring Boot + ML engine that recommends the best TFSA provider based on financial goals, risk tolerance, and fee structures.*  
+- 🏀 **Sharpeye.ai**  
+  *Machine learning–powered platform predicting NBA player performances.*  
 
-- 🎴 **Pokémon Card Price & Sentiment Predictor**  
-  *ML + NLP forecasting for collectible card markets using price history, social media sentiment, and trend analysis.*  
+- 🌽 **Biovision**  
+  *CSIRO - Image2Biomass Prediction (Kaggle Competition by CSIRO) - Utilize models to predict pasture biomass from satellite imagery*  
 
-- 🥊 **Combat Sports Fight Simulation Engine**  
-  *A Monte Carlo UFC/Boxing predictor that simulates thousands of fight outcomes and visualizes real-time win probabilities.*  
 
 ---
 
