@@ -12,7 +12,7 @@ I build intelligent systems that predict real-world outcomes.
   *Machine learning–powered platform predicting NBA player performances.*  
 - 🌽 **Biovision**  *(in progress)* 
   *CSIRO - Image2Biomass Prediction (Kaggle Competition by CSIRO) - Utilizing CNNs to predict pasture biomass from satellite imagery*
-- ✉️ **Letterbox** *(in progress)*  
+- ✉️ **letterbox** *(in progress)*  
   *AI-powered cover letter generator with custom fine-tuned STAR format validation.*
 
 
