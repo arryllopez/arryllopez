@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Lawrence Arryl Lopez</h1>
 <h3 align="center">
-🚀 Machine Learning enthusiast, simulation modeller, and full-stack developer.  
-I build intelligent systems that predict real-world outcomes. 
+3rd Year Software Engineering Student | Ontario Tech University
 </h3>
 
 ---
 
-### 🔭 I’m currently working on:
+### 🔭 I'm currently working on:
+- 🏀 **Sharpeye.ai** *(in progress)*  
+  *Machine learning–powered platform predicting NBA player performances.*
 
-- 🏀 **Sharpeye.ai**  *(in progress)* 
-  *Machine learning–powered platform predicting NBA player performances.*  
-- 🌽 **Biovision**  *(in progress)* 
+- 🌽 **Biovision** *(in progress)*  
   *CSIRO - Image2Biomass Prediction (Kaggle Competition by CSIRO) - Utilizing CNNs to predict pasture biomass from satellite imagery*
-- ✉️ **letterbox** *(in progress)*  
-  *AI-powered cover letter generator with custom fine-tuned STAR format validation.*
 
+- ✉️ **Letterbox** *(in progress)*  
+  *AI-powered cover letter generator with custom fine-tuned STAR format validation.*
 
 ---
 
 ### 🌱 I’m currently learning  
-💡 *Machine Learning, LLM fine-tuning, simulation modelling, and full-stack software engineering*  
+💡 *Machine Learning, LLM fine-tuning, and full-stack software engineering*  
 🎓 *3rd year — Ontario Tech University*
 
 ---
