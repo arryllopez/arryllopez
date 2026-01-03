@@ -24,7 +24,7 @@
 ---
 
 ### 👨‍💻 My Portfolio  
-🔗 **https://arryllopez.github.io/lawrence_devPortfolio/**
+🔗 **https://lawrence-lopez.vercel.app/**
 
 ---
 
