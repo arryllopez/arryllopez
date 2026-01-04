@@ -34,7 +34,7 @@
 ---
 
 ### 📄 My Resume  
-📝 **https://lawrence-arryl-lopez-resume.tiiny.site/**
+📝 **https://lawrence-lopez.tiiny.site/**
 
 ---
 
