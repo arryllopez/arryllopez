@@ -8,14 +8,23 @@
 ### 🔭 I'm currently working on:
 - 🏀 **Sharpeye.ai** *(in progress)*  
   *Machine learning–powered platform predicting NBA player performances.*
-
-- 🌽 **Biovision** *(in progress)*  
-  *CSIRO - Image2Biomass Prediction (Kaggle Competition by CSIRO) - Utilizing CNNs to predict pasture biomass from satellite imagery*
-
-- ✉️ **letterbox** *(in progress)*  
-  *AI-powered cover letter generator with custom fine-tuned STAR format validation.*
+  
+- ✉️ **vulpes.io** *(in progress)*  
+  *Smart eats live nearby.Keeping local tables full.*
 
 ---
+
+### 📝 Open Source Contributions
+
+
+
+- **Meta - Docusaurus** – Open Source Contributor ([GitHub](https://github.com/facebook/docusaurus))  
+  *Exploring contributing to Docusaurus, a React-based documentation framework.*  
+  - Submitted a few pull requests as a beginner and learning the open-source workflow.  
+  - Looking to improve documentation, fix small issues, and get involved in community discussions.  
+  - Gaining experience with React, TypeScript, GitHub, and contributing to open-source projects for the first time.
+
+
 
 ### 🌱 I’m currently learning  
 💡 *Machine Learning, LLM fine-tuning, and full-stack software engineering*  
