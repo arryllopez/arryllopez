@@ -6,7 +6,7 @@
 ---
 
 ### 🔭 I'm currently working on:
-- 🏀 **Sharpeye.ai** *(in progress)*  
+- 🏀 **Sharpeye.ai** *(in progress)*  https://sharpeye-ai.vercel.app/
   *Machine learning–powered platform predicting NBA player performances.*
   
 - ✉️ **vulpes.io** *(in progress)*  
