@@ -1,8 +1,7 @@
 <h1 align="center">Lawrence Arryl Lopez</h1>
-<h3 style="font-size:16px;"  align="center">
+<h4 style="font-size:16px;"  align="center">
 3rd Year Software Engineering Student | Ontario Tech University | Interested in Backend Engineering & Machine Learning
-
-</h3>
+</h4>
 
 ---
 
