@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lawrence Arryl Lopez</h1>
+<h1 align="center">Lawrence Arryl Lopez</h1>
 <h3 align="center">
 3rd Year Software Engineering Student | Ontario Tech University
 </h3>
@@ -16,21 +16,11 @@
 ---
 
 ### 📝 Open Source Contributions
-
-
-
 - **Meta - Docusaurus** – Open Source Contributor ([GitHub](https://github.com/facebook/docusaurus))  
   *Exploring contributing to Docusaurus, a React-based documentation framework.*  
   - Submitted a few pull requests as a beginner and learning the open-source workflow.  
   - Looking to improve documentation, fix small issues, and get involved in community discussions.  
   - Gaining experience with React, TypeScript, GitHub, and contributing to open-source projects for the first time.
-
-
-
-### 🌱 I’m currently learning  
-💡 *Machine Learning, LLM fine-tuning, and full-stack software engineering*  
-🎓 *3rd year — Ontario Tech University*
-
 ---
 
 ### 👨‍💻 My Portfolio  
@@ -68,6 +58,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
   </a>
@@ -82,6 +75,9 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/>
   </a>
 
   <!-- Machine Learning & AI -->
@@ -108,6 +104,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
