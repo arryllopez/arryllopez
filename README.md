@@ -1,3 +1,52 @@
+<h1 align="center">Lawrence Arryl Lopez</h1>
+<h4 style="font-size:16px;"  align="center">
+3rd Year Software Engineering Student | Ontario Tech University | Interested in Backend Engineering & Machine Learning
+</h4>
+
+---
+
+### 🔭 I'm currently working on:
+- 🏀 **[Sharpeye.ai](https://sharpeye-io.vercel.app/)** *(in progress)*  
+  *Machine learning–powered platform predicting NBA player performances.*
+
+- ✉️ **vulpes.io** *(in progress)*  
+  *Smart eats live nearby. Keeping local tables full.*
+
+---
+
+### 📝 Open Source Contributions
+- **Meta - Docusaurus** – Open Source Contributor ([GitHub](https://github.com/facebook/docusaurus))  
+  *Exploring contributing to Docusaurus, a React-based documentation framework.*  
+  - Submitted a few pull requests as a beginner and learning the open-source workflow.  
+  - Looking to improve documentation, fix small issues, and get involved in community discussions.  
+  - Gaining experience with React, TypeScript, GitHub, and contributing to open-source projects for the first time.
+
+---
+
+### 👨‍💻 My Portfolio  
+🔗 **https://lawrence-lopez.vercel.app/**
+
+---
+
+### 📫 Contact  
+📧 **arryllopez7@gmail.com**
+
+---
+
+### 📄 My Resume  
+📝 **https://lawrence-lopez.tiiny.site/**
+
+---
+
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lawrence-lopez-917908349/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
 <h3 align="left">🛠️ Core Languages and Tools:</h3>
 
 <p align="left">
