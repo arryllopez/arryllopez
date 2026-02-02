@@ -79,6 +79,9 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </a>
+<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" height="40"/>
+</a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 </a>
