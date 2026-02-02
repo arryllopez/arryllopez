@@ -9,8 +9,8 @@
 - 🏀 **[Sharpeye.ai](https://sharpeye-io.vercel.app/)** *(in progress)*  
   *Machine learning–powered platform predicting NBA player performances.*
 
-- ✉️ **trivvi.io** *(in progress)*  
-  *Sign up for the [waitlist](trivvi.io) now.*
+- ✉️ **trivvi.io** *(in progress)* — Sign up for the **[waitlist](https://trivvi.io)** now
+
 
 ---
 
