@@ -10,6 +10,7 @@
   *Machine learning–powered platform predicting NBA player performances.*
 
 - ✉️ **trivvi.io** *(in progress)* — Sign up for the **[waitlist](https://trivvi.io)** now
+- *Check out the app repository **[here](https://github.com/arryllopez/trivvi-app)**
 
 
 ---
