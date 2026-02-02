@@ -49,8 +49,6 @@
 
 <h3 align="left">🛠️ Core Languages and Tools:</h3>
 
-<h3 align="left">🛠️ Core Languages and Tools:</h3>
-
 <p align="left">
 <!-- Languages -->
 <b>Languages:</b>
