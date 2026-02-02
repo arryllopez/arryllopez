@@ -72,9 +72,7 @@
 <p align="left">
 <!-- Frameworks & Libraries -->
 <b>Frameworks & Libraries:</b>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
+
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </a>
@@ -90,8 +88,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/>
+<a href="https://nextjs.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 </a>
 </p>
 
