@@ -1,6 +1,8 @@
 # Lawrence Arryl Lopez
 
-3rd Year Software Engineering @ Ontario Tech | I love full-stack development (mainly backend) 
+3rd Year Software Engineering @ Ontario Tech
+
+*I love full-stack development (mainly backend)*
 
 ## Current Projects
 
