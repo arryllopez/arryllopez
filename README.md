@@ -10,6 +10,10 @@
 
 **[trivvi.io](https://trivvi.io)** — Join the waitlist · [Repo](https://github.com/arryllopez/trivvi-app)
 
+**ankylosaur** — Abuse-aware API gateway · [Repo](https://github.com/arryllopez/ankylosaur)
+
+
+
 ## Open Source
 
 Contributing to **[Meta Docusaurus](https://github.com/facebook/docusaurus)** — React documentation framework
