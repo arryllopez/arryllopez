@@ -10,7 +10,9 @@
 
 **[trivvi.io](https://trivvi.io)** — Join the waitlist · [Repo](https://github.com/arryllopez/trivvi-app)
 
-**ankylosaur** — Abuse-aware API gateway · [Repo](https://github.com/arryllopez/ankylosaur)
+**ankyloGo** — Abuse-aware API gateway & rate-limiting middleware (Ankylo series) · [Repo](https://github.com/arryllopez/ankyloGo)  
+First installment of the *Ankylo* series for the Gin framework in Go, providing adaptive, abuse-aware rate limiting to protect APIs from malicious traffic while preserving legitimate usage.
+
 
 
 
