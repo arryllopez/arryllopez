@@ -1,6 +1,6 @@
 # Lawrence Arryl Lopez
 
-3rd Year Software Engineering @ Ontario Tech
+**3rd Year Software Engineering @ Ontario Tech**
 
 *I love full-stack development (mainly backend)*
 
@@ -13,48 +13,23 @@
 **ankyloGo** — Abuse-aware API gateway & rate-limiting middleware (Ankylo series) · [Repo](https://github.com/arryllopez/ankyloGo)  
 First installment of the *Ankylo* series for the Gin framework in Go, providing adaptive, abuse-aware rate limiting to protect APIs from malicious traffic while preserving legitimate usage.
 
+## Contact
 
-
-
-## Open Source
-
-Contributing to **[Meta Docusaurus](https://github.com/facebook/docusaurus)** — React documentation framework
-
-## Links
-
-[Portfolio](https://lawrence-lopez.vercel.app/) · [Resume](https://lawrence-lopez.tiiny.site/) · [LinkedIn](https://linkedin.com/in/lawrence-lopez-917908349/) · arryllopez7@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lawrence-lopez.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-1F2937?style=for-the-badge&logo=readme&logoColor=white)](https://lawrence-lopez.tiiny.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lawrence-lopez-917908349/)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arryllopez7@gmail.com)
 
 ## Tech Stack
 
-**Languages**
+**Languages**  
+Python · Java · Go · JavaScript · TypeScript
 
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-<a href="https://golang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+**Frameworks & Libraries**  
+Spring · Gin · FastAPI · Django · Next.js · Flutter · TailwindCSS
 
-**Frameworks & Libraries**
+**ML & Data**  
+PyTorch · TensorFlow · PostgreSQL · MongoDB
 
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-<a href="https://gin-gonic.com/" target="_blank"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="40" height="40"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/></a>
-<a href="https://nextjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-
-**ML & Data**
-
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-
-**DevOps**
-
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
+**DevOps**  
+Docker · Kubernetes · GCP · Azure · Redis
