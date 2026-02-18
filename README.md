@@ -48,3 +48,5 @@ First installment of the *Ankylo* series for the Gin framework in Go, providing 
 <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40"/></a>
 <a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/></a>
 <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a>
+<a href="https://prometheus.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40"/></a>
+<a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40"/></a>
