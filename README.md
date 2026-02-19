@@ -2,17 +2,6 @@
 
 **Software Engineering @ Ontario Tech University**
 
-## Projects
-
-**Sharpeye.ai**  
-https://sharpeye-io.vercel.app
-
-**trivvi.io**  
-https://trivvi.io · https://github.com/arryllopez/trivvi-app
-
-**ankyloGo**  
-https://github.com/arryllopez/ankyloGo
-
 ## Stack
 
 **Languages:**  
