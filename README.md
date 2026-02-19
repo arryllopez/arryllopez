@@ -2,6 +2,8 @@
 
 **Software Engineering @ Ontario Tech University**
 
+check out my startup: [trivvi.io](https://trivvi.io)
+
 ## Stack
 
 **Languages:**  
