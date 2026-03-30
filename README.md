@@ -23,7 +23,8 @@
   ..--""              `-\(\/;`                        portfolio := "https://lawrence-lopez.vercel.app/"
     _.                      :
                             ;`-                       currentlyReading := []string{
-                           :\                              "learn c the hard way", 
+                           :\                              "modern c", 
                            ;  bug                          "learn go with pocket-sized projects", 
-```                                                        "designing data intensive applications",
+                                                           "designing data intensive applications",
                                                       }
+```
