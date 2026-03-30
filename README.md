@@ -22,7 +22,8 @@
 ..--""--.-"         (\      .-(\                      linkedin := "https://www.linkedin.com/in/arryl-lopez/"
   ..--""              `-\(\/;`                        portfolio := "https://lawrence-lopez.vercel.app/"
     _.                      :
-                            ;`-
-                           :\
-                           ;  bug
-```
+                            ;`-                       currentlyReading := []string{
+                           :\                              "learn c the hard way", 
+                           ;  bug                          "learn go with pocket-sized projects", 
+```                                                        "designing data intensive applications",
+                                                      }
